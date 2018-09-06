@@ -1,2 +1,3 @@
 To jest plik. 
 1. Napisałam to, co powyżej i robię commit.
+2. Teraz tworzę drugi plik i robię commit.
