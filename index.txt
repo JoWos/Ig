@@ -3,4 +3,5 @@ To jest plik.
 2. Teraz tworzę drugi plik i robię commit.
 3. Teraz dodaję trzeci plik oraz gitignore, w którym będę ignorować drugi plik - ignoruj.txt.
 4. Chciałabym ignorować ignoruj.txt, ale zanim dodałam go do .gitignore, zrobiłam commit. Więc figa z makiem.
-5. Utowrzyłam folder i przerzuciłam tam ignoruj.txt.
+5. Utowrzyłam folder i przerzuciłam tam ignoruj.txt. Robię commit.
+6. Wypchnęłam moje zdalne repozytorium i ignoruj.txt zniknął z GitHuba. Nie ma ani folderu, ani ignoruj. Na wszelki wypadek dopisałam co nieco do ingoruj.txt. Robię commit.
