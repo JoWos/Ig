@@ -1,3 +1,4 @@
 To jest plik. 
 1. Napisałam to, co powyżej i robię commit.
 2. Teraz tworzę drugi plik i robię commit.
+3. Teraz dodaję trzeci plik oraz gitignore, w którym będę ignorować drugi plik - ignoruj.txt.

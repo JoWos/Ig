@@ -1,1 +1,2 @@
 Chcę zostać zignorowany.
+Dlatego jestem w .gitignore.
