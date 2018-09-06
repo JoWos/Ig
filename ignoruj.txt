@@ -1,4 +1,0 @@
-Chcę zostać zignorowany.
-Dlatego jestem w .gitignore.
-
-Ale ten wcześniejszy commit sprawił, że jestem obserwowany :(
