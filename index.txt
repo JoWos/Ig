@@ -11,3 +11,4 @@ To jest plik.
 9. Wracam do gry! Teraz wkracza npm. Przezornie dodaję "node-modules" (choć jeszcze go nie ma) do gitignore. Nie zauważam, że robię błąd - powinno być "node_modules" zamiast "node-modules". Zapisuję ten ważny moment.
 10. Instaluję moduł "colors", zapisuję commit i wysyłam na GitHuba.
 11. Zauważam błąd w nazwie folderu, który miał się ignorować. Poprawiam go w .gitignore. Zapisuję commit, wypycham na GitHuba.
+12. Niestety, node_modules wciąż tam jest. Zapisuję to spostrzeżenie w commicie i znów wypycham.
