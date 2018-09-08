@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JoWos/Ig/issues"
   },
-  "homepage": "https://github.com/JoWos/Ig#readme"
+  "homepage": "https://github.com/JoWos/Ig#readme",
+  "dependencies": {
+    "colors": "^1.3.2"
+  }
 }

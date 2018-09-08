@@ -9,3 +9,4 @@ To jest plik.
 8. Folder i ignoruj.txt nadal się ignorują, Jakie z tego wnioski? Nie ignorowałam kiedy chciałam ignorować, ignorowałam kiedy nie chciałam ignorować. Więc wnoski są żadne.
 
 9. Wracam do gry! Teraz wkracza npm. Przezornie dodaję "node-modules" (choć jeszcze go nie ma) do gitignore. Nie zauważam, że robię błąd - powinno być "node_modules" zamiast "node-modules". Zapisuję ten ważny moment.
+10. Instaluję moduł "colors", zapisuję commit i wysyłam na GitHuba.
