@@ -1,0 +1,2 @@
+A to jest plik, który powstał razem z powstaniem nowego brancha.
+Chcę mieć drugiego brancha i wypchnąć go na GitHuba. 
